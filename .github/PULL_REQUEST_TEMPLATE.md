@@ -9,9 +9,9 @@
 Use keywords like 'close' or 'solves' to link this PR to an issue.
 For example:
 
-Closes #12345
-Unblocks #54321
-This PR solves #12345
+- Closes #12345
+- Unblocks #54321
+- This PR solves #12345
 -->
 
 ## Progress
